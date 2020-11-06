@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-一名不服输的普通程序员，很高兴能在GitHub上结识各位。
+21届毕业生，发奋努力中的**准**程序员。
 
+> 如果你有好的开源项目和点子，并且缺一个菜鸟后端的话，不妨叫上我试试。
+>
+> QQ：1320291471
 ### 📚 My Blog Address
 
 | 掘金                                                | CSDN                                          |
@@ -13,9 +16,13 @@
 ### 📊 Most Used Languages
 ![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs?username=Linn-cn&theme=tokyonight)
 
-### 🎉 Open Source Project
+### 🎉 Project and Result
 
 ![](https://github-readme-stats.vercel.app/api/pin/?username=ZHENFENG13&repo=My-Blog-layui&theme=tokyonight)
+
+长大疫情动态微信小程序
+[项目成果展示](https://juejin.im/pin/6844910569309356039)
+
 > More projects are under development
 
 ### 💬 Want to say
