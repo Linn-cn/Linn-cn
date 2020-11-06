@@ -11,11 +11,11 @@
 ### 🌈 My Github State
 ![Linn Github State](https://github-readme-stats.vercel.app/api?username=Linn-cn&show_icons=true&count_private=true&theme=tokyonight)
 ### 📊 Most Used Languages
-![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs?username=Linn-cn)
+![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs?username=Linn-cn&theme=tokyonight)
 
-###🎉 Open Source Project
+### 🎉 Open Source Project
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=ZHENFENG13&repo=My-Blog-layui)
+![](https://github-readme-stats.vercel.app/api/pin/?username=ZHENFENG13&repo=My-Blog-layui&theme=tokyonight)
 > More projects are under development
 
 ### 💬 Want to say
