@@ -12,13 +12,13 @@
 | [点我直达](https://juejin.im/user/3350967172733063) | [点我直达](https://blog.csdn.net/qq_39809458) |
 
 ### 🌈 My Github State
-![Linn Github State](https://github-readme-stats.vercel.app/api?username=Linn-cn&show_icons=true&count_private=true&theme=tokyonight)
+![Linn Github State](https://github-readme-stats.vercel.app/api?username=Linn-cn&show_icons=true&count_private=true)
 ### 📊 Most Used Languages
-![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs?username=Linn-cn&theme=tokyonight)
+![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs?username=Linn-cn)
 
 ### 🎉 Project and Result
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=ZHENFENG13&repo=My-Blog-layui&theme=tokyonight)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ZHENFENG13&repo=My-Blog-layui)](https://github.com/ZHENFENG13/My-Blog-layui)
 
 长大疫情动态微信小程序
 [项目成果展示](https://juejin.im/pin/6844910569309356039)
