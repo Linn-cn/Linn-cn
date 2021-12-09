@@ -9,7 +9,7 @@
 
 | 掘金                                                | CSDN                                          |
 | --------------------------------------------------- | --------------------------------------------- |
-| [点我直达](https://juejin.im/user/3350967172733063) | [点我直达](https://blog.csdn.net/qq_39809458) |
+| [点我直达](https://juejin.cn/user/3350967172733063) | [点我直达](https://blog.csdn.net/qq_39809458) |
 
 ### 🌈 My Github State
 ![Linn Github State](https://github-readme-stats.vercel.app/api?username=Linn-cn&show_icons=true&count_private=true)
@@ -21,7 +21,7 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ZHENFENG13&repo=My-Blog-layui)](https://github.com/ZHENFENG13/My-Blog-layui)
 
 长大疫情动态微信小程序
-[项目成果展示](https://juejin.im/pin/6844910569309356039)
+[项目成果展示](https://juejin.cn/pin/6844910569309356039)
 
 > More projects are under development
 
